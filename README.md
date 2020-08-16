@@ -52,7 +52,7 @@ Todos os comandos estão presentes no arquivo [`COMMANDS.md`](COMMANDS.md). Siga
 * Twitter: [@marcosleal\_prd](https://twitter.com/marcosleal\_prd)
 * Github: [@marcosleal-prd](https://github.com/marcosleal-prd)
 * LinkedIn: [@marcosleal-prd](https://linkedin.com/in/marcosleal-prd)
-* Speaker Deck: [@marcosleal_prd]([https://speakerdeck.com/marcosleal_prd/) (slides)
+* Speaker Deck: [@marcosleal_prd](https://speakerdeck.com/marcosleal_prd/) (slides)
 
 ## Seu apoio
 
